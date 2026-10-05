@@ -1,0 +1,2348 @@
+[
+  {
+    "wordId": "akrostik",
+    "term": "Akrostik",
+    "definition": "Poezi ku shkronjat e para të vargjeve formojnë një fjalë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Akrostiku fsheh emrin e autorit.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "ostik",
+    "inGlossary": true
+  },
+  {
+    "wordId": "aktori",
+    "term": "Aktori",
+    "definition": "Personi që luajnë një rol.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Aktori foli me pasion.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "ori",
+    "inGlossary": true
+  },
+  {
+    "wordId": "alegori",
+    "term": "Alegori",
+    "definition": "Tregim simbolik me kuptim të fshehtë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Alegoria flet për drejtësinë.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "ori",
+    "inGlossary": true
+  },
+  {
+    "wordId": "alfabet",
+    "term": "Alfabet",
+    "definition": "Bashkësia e shkronjave të një gjuhe.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Alfabeti shqip ka 36 shkronja.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "abet",
+    "inGlossary": true
+  },
+  {
+    "wordId": "ambient",
+    "term": "Ambient",
+    "definition": "Mjedisi ku ndodhin ngjarjet.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ambienti është një fshat malor.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "ient",
+    "inGlossary": true
+  },
+  {
+    "wordId": "analizë",
+    "term": "Analizë",
+    "definition": "Shqyrtim i hollësishëm i pjesëve të tekstit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Analiza e poezisë zbulon metafora.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "ize",
+    "inGlossary": true
+  },
+  {
+    "wordId": "antagonist",
+    "term": "Antagonist",
+    "definition": "Personazhi që i kundërvihet protagonistit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Antagonisti krijon konflikt.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "ist",
+    "inGlossary": true,
+    "antonyms": [
+      "protagonist"
+    ],
+    "usageNote": "Antagonisti i kundërvihet heroit."
+  },
+  {
+    "wordId": "antonim",
+    "term": "Antoním",
+    "definition": "Fjalë me kuptim të kundërt.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "I madh dhe i vogël janë antonime.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "onim",
+    "inGlossary": true,
+    "antonyms": [
+      "sinoním"
+    ],
+    "usageNote": "Antonimet janë çifte me kuptim të kundërt."
+  },
+  {
+    "wordId": "ardhmëria",
+    "term": "Ardhmëria",
+    "definition": "Koha që vjen.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ardhmëria u takon të rinjve.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "eria",
+    "inGlossary": true
+  },
+  {
+    "wordId": "argument",
+    "term": "Argument",
+    "definition": "Arsye që mbështet një mendim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Argumenti duhet të jetë i qartë.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "ument",
+    "inGlossary": true,
+    "synonyms": [
+      "arsyetim",
+      "shembull"
+    ],
+    "usageNote": "Në ese, çdo argument duhet të ketë shembull."
+  },
+  {
+    "wordId": "arkazëm",
+    "term": "Arkaizëm",
+    "definition": "Fjalë e vjetëruar që nuk përdoret më gjerësisht.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Arkaizmat gjenden në tekste të vjetra.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "izem",
+    "inGlossary": true
+  },
+  {
+    "wordId": "arsyetim",
+    "term": "Arsyetim",
+    "definition": "Shpjegim me arsye hap pas hapi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Arsyetimi mbështet përfundimin.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "etim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "atdheu",
+    "term": "Atdheu",
+    "definition": "Vendi i lindjes dhe i përkatësisë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Atdheu ynë është Shqipëria.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "heu",
+    "inGlossary": true,
+    "synonyms": [
+      "kultura",
+      "tradita"
+    ],
+    "usageNote": "Atdheu lidhet me gjuhën, simbolet dhe kujdesin për të."
+  },
+  {
+    "wordId": "autor",
+    "term": "Autor",
+    "definition": "Krijuesi i një vepre.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Autori shqiptar është i famshëm.",
+    "letterOfAlphabet": "A",
+    "rhymeKey": "or",
+    "inGlossary": true
+  },
+  {
+    "wordId": "balade",
+    "term": "Baladë",
+    "definition": "Poezi narrative me ton emocional, shpesh me refren.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Balada popullore tregon një histori.",
+    "letterOfAlphabet": "B",
+    "rhymeKey": "ade",
+    "inGlossary": true
+  },
+  {
+    "wordId": "bashketingellore",
+    "term": "Bashkëtingëllore",
+    "definition": "Tingull i artikuluar me pengesë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "B është bashkëtingëllore.",
+    "letterOfAlphabet": "B",
+    "rhymeKey": "ore",
+    "inGlossary": true
+  },
+  {
+    "wordId": "bashkëpunim",
+    "term": "Bashkëpunim",
+    "definition": "Punë e përbashkët për një qëllim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Bashkëpunim është e rëndësishme.",
+    "letterOfAlphabet": "B",
+    "rhymeKey": "unim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "besimi",
+    "term": "Besimi",
+    "definition": "Ndjenja e sigurisë te dikush.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Besimi është e rëndësishme.",
+    "letterOfAlphabet": "B",
+    "rhymeKey": "simi",
+    "inGlossary": true
+  },
+  {
+    "wordId": "bibliografi",
+    "term": "Bibliografi",
+    "definition": "Lista e burimeve dhe veprave të cituara.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Bibliografia është në fund të librit.",
+    "letterOfAlphabet": "B",
+    "rhymeKey": "afi",
+    "inGlossary": true
+  },
+  {
+    "wordId": "bibliotekë",
+    "term": "Bibliotekë",
+    "definition": "Vend ku ruhen dhe huazohen libra.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Biblioteka e shkollës është e qetë.",
+    "letterOfAlphabet": "B",
+    "rhymeKey": "eke",
+    "inGlossary": true,
+    "synonyms": [
+      "libri"
+    ]
+  },
+  {
+    "wordId": "biografi",
+    "term": "Biografi",
+    "definition": "Tregim i jetës së një personi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Biografia e autorit është e shkurtër.",
+    "letterOfAlphabet": "B",
+    "rhymeKey": "afi",
+    "inGlossary": true
+  },
+  {
+    "wordId": "bukuria",
+    "term": "Bukuria",
+    "definition": "Cilësia estetike që kënaq.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Bukuria e gjuhës shqipe.",
+    "letterOfAlphabet": "B",
+    "rhymeKey": "uria",
+    "inGlossary": true
+  },
+  {
+    "wordId": "citát",
+    "term": "Citat",
+    "definition": "Fjalia e marrë fjalë për fjalë nga një burim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Citati duhet të ketë burim.",
+    "letterOfAlphabet": "C",
+    "rhymeKey": "at",
+    "inGlossary": true
+  },
+  {
+    "wordId": "dashuria",
+    "term": "Dashuria",
+    "definition": "Ndjenjë e thellë afeksioni.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Dashuria për gjuhën na bashkon.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "uria",
+    "inGlossary": true,
+    "synonyms": [
+      "miqesia"
+    ]
+  },
+  {
+    "wordId": "debat",
+    "term": "Debat",
+    "definition": "Shkëmbim argumentesh mbi një temë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Debati ishte i gjallë.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "ebat",
+    "inGlossary": true,
+    "synonyms": [
+      "diskutim",
+      "argument"
+    ]
+  },
+  {
+    "wordId": "deti",
+    "term": "Deti",
+    "definition": "Ujëra të gjera të kripura.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Deti Adriatik është i bukur.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "eti",
+    "inGlossary": true,
+    "synonyms": [
+      "lumi"
+    ],
+    "antonyms": [
+      "mali"
+    ]
+  },
+  {
+    "wordId": "detyra",
+    "term": "Detyra",
+    "definition": "Punë që duhet kryer, shpesh shkollore.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Detyra e esesë është për të hënën.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "yra",
+    "inGlossary": true
+  },
+  {
+    "wordId": "dialekt",
+    "term": "Dialekt",
+    "definition": "Variant rajonal i një gjuhe.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Dialekti gegë dhe toskë.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "ekt",
+    "inGlossary": true
+  },
+  {
+    "wordId": "dialog",
+    "term": "Dialog",
+    "definition": "Bisedë midis personazheve.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Dialogu e zbulon karakterin.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "og",
+    "inGlossary": true,
+    "antonyms": [
+      "monolog"
+    ],
+    "usageNote": "Dialogu është bisedë; monologu është fjalim i vetëm."
+  },
+  {
+    "wordId": "dielli",
+    "term": "Dielli",
+    "definition": "Ylli që ndriçon dhe ngroh Tokën.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Dielli lind në lindje.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "elli",
+    "inGlossary": true,
+    "antonyms": [
+      "hëna"
+    ]
+  },
+  {
+    "wordId": "dimri",
+    "term": "Dimri",
+    "definition": "Stina e ftohtë me borë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Dimri sjell borë.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "imri",
+    "inGlossary": true,
+    "antonyms": [
+      "vera",
+      "pranvera"
+    ],
+    "usageNote": "Dimri është stina e ftohtë; vera e nxehtë."
+  },
+  {
+    "wordId": "disiplinë",
+    "term": "Disiplinë",
+    "definition": "Rregull dhe vetëkontroll në punë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Disiplina ndihmon në mësime.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "ine",
+    "inGlossary": true
+  },
+  {
+    "wordId": "diskutim",
+    "term": "Diskutim",
+    "definition": "Bisedë për të kuptuar më mirë një çështje.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Diskutimi ndihmoi të gjithë.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "utim",
+    "inGlossary": true,
+    "synonyms": [
+      "debat"
+    ]
+  },
+  {
+    "wordId": "dita",
+    "term": "Dita",
+    "definition": "Periudha e dritës midis dy netëve.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Dita e sotme është e ngrohtë.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "ita",
+    "inGlossary": true,
+    "synonyms": [
+      "mëngjesi"
+    ],
+    "antonyms": [
+      "nata"
+    ],
+    "usageNote": "Dita dhe nata janë antonime kohore."
+  },
+  {
+    "wordId": "ditar",
+    "term": "Ditar",
+    "definition": "Shënime personale sipas datave.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ajo mban ditar çdo mbrëmje.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "itar",
+    "inGlossary": true
+  },
+  {
+    "wordId": "dolla",
+    "term": "Dolli",
+    "definition": "Pije festive; këtu fjalë për rimë me -olla.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Në dasmë ngrihet dolli.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "olli",
+    "inGlossary": false
+  },
+  {
+    "wordId": "drame",
+    "term": "Dramë",
+    "definition": "Zhanër letrar i shkruar për skenë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Drama u shfaq në teatër.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "ame",
+    "inGlossary": true
+  },
+  {
+    "wordId": "drejtshkrim",
+    "term": "Drejtshkrim",
+    "definition": "Rregullat e shkrimit të saktë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Drejtshkrimi shqip mësohet në shkollë.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "krim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "emër",
+    "term": "Emër",
+    "definition": "Pjesë e ligjëratës që emërton qenie ose gjëra.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Libri është emër.",
+    "letterOfAlphabet": "E",
+    "rhymeKey": "emer",
+    "inGlossary": true
+  },
+  {
+    "wordId": "epikë",
+    "term": "Epikë",
+    "definition": "Poezi ose narrativë për vepra heroike.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Epika tregon betejat.",
+    "letterOfAlphabet": "E",
+    "rhymeKey": "ike",
+    "inGlossary": true
+  },
+  {
+    "wordId": "epitet",
+    "term": "Epitet",
+    "definition": "Mbiemër artistik që thekson një tipar.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Epiteti 'i artë' zbukuron emrin.",
+    "letterOfAlphabet": "E",
+    "rhymeKey": "itet",
+    "inGlossary": true
+  },
+  {
+    "wordId": "ese",
+    "term": "Ese",
+    "definition": "Shkrim i shkurtër që shpreh mendime mbi një temë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Nxënësi shkroi një ese.",
+    "letterOfAlphabet": "E",
+    "rhymeKey": "ese",
+    "inGlossary": true,
+    "synonyms": [
+      "shkrimi"
+    ],
+    "usageNote": "Eseja argumenton një temë me shembuj."
+  },
+  {
+    "wordId": "fabula",
+    "term": "Fabulë",
+    "definition": "Tregim i shkurtër me kafshë dhe mësim moral.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Fabula e dhelprës është e njohur.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "ula",
+    "inGlossary": true
+  },
+  {
+    "wordId": "familia",
+    "term": "Familia",
+    "definition": "Grupi i afërmve që jetojnë së bashku.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Familia mbështet njëri-tjetrin.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "ilia",
+    "inGlossary": true
+  },
+  {
+    "wordId": "fitorja",
+    "term": "Fitorja",
+    "definition": "Suksesi në një garë ose sfidë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Fitorja erdhi pas përpjekjes.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "orja",
+    "inGlossary": true
+  },
+  {
+    "wordId": "fjale",
+    "term": "Fjalë",
+    "definition": "Njësia bazë e gjuhës që ka kuptim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Çdo fjalë ka një kuptim.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "ale",
+    "inGlossary": true
+  },
+  {
+    "wordId": "fjali",
+    "term": "Fjali",
+    "definition": "Njësi gramatikore që shpreh një mendim të plotë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Fjalia ka kryefjalë dhe kallëzues.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "ali",
+    "inGlossary": true
+  },
+  {
+    "wordId": "fjali_komplekse",
+    "term": "Fjali komplekse",
+    "definition": "Fjali me më shumë se një kallëzues.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Fjalia komplekse lidh dy ide.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "ekse",
+    "inGlossary": true
+  },
+  {
+    "wordId": "fjalori",
+    "term": "Fjalori",
+    "definition": "Libër ose listë me fjalë dhe kuptime.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Fjalori shpjegon fjalët.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "ori",
+    "inGlossary": true
+  },
+  {
+    "wordId": "fjalëkryqi",
+    "term": "Fjalëkryqi",
+    "definition": "Lojë ku fjalët kryqëzohen në një rrjetë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Fjalëkryqi stërvit fjalorin.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "yqi",
+    "inGlossary": true
+  },
+  {
+    "wordId": "flamuri",
+    "term": "Flamuri",
+    "definition": "Shenjë kombëtare me ngjyra dhe simbole.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Flamuri kuq e zi valëvit.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "uri",
+    "inGlossary": true,
+    "synonyms": [
+      "shqiponja",
+      "simbol"
+    ],
+    "usageNote": "Flamuri kuq e zi është simbol kombëtar."
+  },
+  {
+    "wordId": "fletore",
+    "term": "Fletore",
+    "definition": "Libër me faqe bosh për shënim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Shkruaj në fletore.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "ore",
+    "inGlossary": true
+  },
+  {
+    "wordId": "folje",
+    "term": "Folje",
+    "definition": "Pjesë e ligjëratës që tregon veprim ose gjendje.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Lexoj është folje.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "olje",
+    "inGlossary": true
+  },
+  {
+    "wordId": "frazeologji",
+    "term": "Frazeologji",
+    "definition": "Shprehje e ngulitur me kuptim të veçantë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Frazeologjia e pasuron gjuhën.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "ogji",
+    "inGlossary": true
+  },
+  {
+    "wordId": "frazë",
+    "term": "Frazë",
+    "definition": "Grup fjalësh me kuptim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Fraza e bukur mbetet në mendje.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "aze",
+    "inGlossary": true
+  },
+  {
+    "wordId": "gabim",
+    "term": "Gabim",
+    "definition": "Veprim ose përgjigje e pasaktë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Gabimi na mëson.",
+    "letterOfAlphabet": "G",
+    "rhymeKey": "bim",
+    "inGlossary": true,
+    "antonyms": [
+      "saktësi",
+      "sukses"
+    ],
+    "usageNote": "Gabimi është mundësi për të mësuar, jo turp."
+  },
+  {
+    "wordId": "gazeta",
+    "term": "Gazeta",
+    "definition": "Botim periodik me lajme.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Gazeta e sotme ka një artikull për kulturën.",
+    "letterOfAlphabet": "G",
+    "rhymeKey": "eta",
+    "inGlossary": true
+  },
+  {
+    "wordId": "gjuha",
+    "term": "Gjuha",
+    "definition": "Sistem shenjash për komunikim; këtu: shqipja.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Gjuha shqipe është e pasur.",
+    "letterOfAlphabet": "G",
+    "rhymeKey": "uha",
+    "inGlossary": true,
+    "synonyms": [
+      "standarde"
+    ],
+    "usageNote": "Përdor shqipen standarde në shkrim shkollor."
+  },
+  {
+    "wordId": "hero",
+    "term": "Hero",
+    "definition": "Personazh i guximshëm ose i admiruar.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Heroi mbron të drejtën.",
+    "letterOfAlphabet": "H",
+    "rhymeKey": "ero",
+    "inGlossary": true,
+    "synonyms": [
+      "protagonist",
+      "personazh"
+    ],
+    "antonyms": [
+      "antagonist"
+    ],
+    "usageNote": "Heroi shpesh është protagonisti i veprës."
+  },
+  {
+    "wordId": "homonim",
+    "term": "Homoním",
+    "definition": "Fjalë me formë të njëjtë por kuptim të ndryshëm.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Homonimet kërkojnë kontekst.",
+    "letterOfAlphabet": "H",
+    "rhymeKey": "onim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "huazim",
+    "term": "Huazim",
+    "definition": "Fjalë e marrë nga një gjuhë tjetër.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Shmangim huazimet e panevojshme.",
+    "letterOfAlphabet": "H",
+    "rhymeKey": "azim",
+    "inGlossary": true,
+    "usageNote": "Shmang huazimet kur ke fjalë shqipe të përshtatshme."
+  },
+  {
+    "wordId": "hyrje",
+    "term": "Hyrje",
+    "definition": "Fillimi i një teksti ose fjalimi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Hyrja paraqet temën.",
+    "letterOfAlphabet": "H",
+    "rhymeKey": "yrje",
+    "inGlossary": true
+  },
+  {
+    "wordId": "hëna",
+    "term": "Hëna",
+    "definition": "Trupi qiellor që ndriçon natën.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Hëna është e plotë.",
+    "letterOfAlphabet": "H",
+    "rhymeKey": "ena",
+    "inGlossary": true,
+    "antonyms": [
+      "dielli"
+    ]
+  },
+  {
+    "wordId": "ide",
+    "term": "Ide",
+    "definition": "Mendim ose koncept që shprehet në vepër.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ideja kryesore është dashuria.",
+    "letterOfAlphabet": "I",
+    "rhymeKey": "ide",
+    "inGlossary": true
+  },
+  {
+    "wordId": "imagjinata",
+    "term": "Imagjinata",
+    "definition": "Aftësia për të krijuar imazhe mendore.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Imagjinata e poetit është e pasur.",
+    "letterOfAlphabet": "I",
+    "rhymeKey": "ata",
+    "inGlossary": true
+  },
+  {
+    "wordId": "inspirimi",
+    "term": "Frymëzim",
+    "definition": "Nxitje për të krijuar.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Frymëzimi erdhi nga natyra.",
+    "letterOfAlphabet": "F",
+    "rhymeKey": "zim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "ironí",
+    "term": "Ironi",
+    "definition": "Thënie me kuptim të kundërt nga ai i dukshëm.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ironia e bën tekstin më të mprehtë.",
+    "letterOfAlphabet": "I",
+    "rhymeKey": "oni",
+    "inGlossary": true
+  },
+  {
+    "wordId": "kapitull",
+    "term": "Kapitull",
+    "definition": "Pjesë e madhe e një libri.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Kapitulli i dytë është më i gjatë.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "itull",
+    "inGlossary": true
+  },
+  {
+    "wordId": "klasa",
+    "term": "Klasa",
+    "definition": "Grup nxënësish ose dhoma e mësimit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Klasa është e qetë.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "asa",
+    "inGlossary": true
+  },
+  {
+    "wordId": "kolla",
+    "term": "Kolla",
+    "definition": "Refleks i frymëmarrjes; fjalë për ushtrim rime.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Kolla e bezdisi.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "olla",
+    "inGlossary": false
+  },
+  {
+    "wordId": "komedi",
+    "term": "Komedi",
+    "definition": "Dramë me humor dhe fund të gëzuar.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Komedia e bëri publikun të qeshë.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "edi",
+    "inGlossary": true,
+    "antonyms": [
+      "tragjedi"
+    ]
+  },
+  {
+    "wordId": "konflikt",
+    "term": "Konflikt",
+    "definition": "Përplasje interesash ose forcash në vepër.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Konflikti e lëviz historinë.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "ikt",
+    "inGlossary": true
+  },
+  {
+    "wordId": "konkurs",
+    "term": "Konkurs",
+    "definition": "Garë me rregulla dhe fitues.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Konkursi i gjuhës filloi.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "urs",
+    "inGlossary": true
+  },
+  {
+    "wordId": "kontekst",
+    "term": "Kontekst",
+    "definition": "Rrethanat që ndihmojnë të kuptohet një fjalë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Konteksti e qartëson kuptimin.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "ekst",
+    "inGlossary": true
+  },
+  {
+    "wordId": "krahason",
+    "term": "Krahasim",
+    "definition": "Figurë që vë dy gjëra pranë me 'si' ose 'ashtu si'.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Krahasimi e bën imazhin të qartë.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "asim",
+    "inGlossary": true,
+    "synonyms": [
+      "metafora"
+    ],
+    "usageNote": "Krahasimi lidh dy gjëra me 'si' ose 'ashtu si'."
+  },
+  {
+    "wordId": "kreativitet",
+    "term": "Kreativitet",
+    "definition": "Aftësi për të krijuar ide të reja.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Kreativiteti shihet në ese.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "itet",
+    "inGlossary": true
+  },
+  {
+    "wordId": "krijimtaria",
+    "term": "Krijimtaria",
+    "definition": "Aftësia për të prodhuar vepra të reja.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Krijimtaria lulëzon me ushtrim.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "aria",
+    "inGlossary": true
+  },
+  {
+    "wordId": "kritikë",
+    "term": "Kritikë",
+    "definition": "Vlerësim i arsyetuar i një vepre.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Kritika letrare është e dobishme.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "ike",
+    "inGlossary": true
+  },
+  {
+    "wordId": "kujtesë",
+    "term": "Kujtesë",
+    "definition": "Aftësi për të mbajtur informacion.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Kujtesa forcohet me përsëritje.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "tese",
+    "inGlossary": true
+  },
+  {
+    "wordId": "kulmin",
+    "term": "Kulmin",
+    "definition": "Pika më e tensionuar e ngjarjes.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Kulmini ndodh në kapitullin e fundit.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "min",
+    "inGlossary": true
+  },
+  {
+    "wordId": "kultura",
+    "term": "Kultura",
+    "definition": "Bashkësia e vlerave dhe krijimtarisë së një populli.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Kultura shqiptare është e pasur.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "ura",
+    "inGlossary": true
+  },
+  {
+    "wordId": "kuriozitet",
+    "term": "Kuriozitet",
+    "definition": "Dëshirë për të mësuar diçka të re.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Kurioziteti hap dyert e dijes.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "itet",
+    "inGlossary": true
+  },
+  {
+    "wordId": "kënga",
+    "term": "Kënga",
+    "definition": "Kompozim muzikor me tekst.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Kënga popullore është e gjallë.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "enga",
+    "inGlossary": true
+  },
+  {
+    "wordId": "laborator",
+    "term": "Laborator",
+    "definition": "Vend pune për eksperimente.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Në laborator bëmë një provë.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "ator",
+    "inGlossary": true
+  },
+  {
+    "wordId": "legjende",
+    "term": "Legjendë",
+    "definition": "Tregim popullor i bazuar në ngjarje a persona historikë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Legjenda e Skënderbeut jeton ende.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "ende",
+    "inGlossary": true
+  },
+  {
+    "wordId": "letër",
+    "term": "Letër",
+    "definition": "Mesazh i shkruar drejtuar dikujt.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Shkrova një letër mikut.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "eter",
+    "inGlossary": true
+  },
+  {
+    "wordId": "leximi",
+    "term": "Leximi",
+    "definition": "Kuptimi i tekstit të shkruar.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Leximi pasuron fjalorin.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "imi",
+    "inGlossary": true,
+    "synonyms": [
+      "libri"
+    ],
+    "usageNote": "Leximi i rregullt pasuron fjalorin."
+  },
+  {
+    "wordId": "lexues",
+    "term": "Lexues",
+    "definition": "Personi që lexon tekstin.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Lexuesi krijon kuptimin.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "ues",
+    "inGlossary": true
+  },
+  {
+    "wordId": "libri",
+    "term": "Libri",
+    "definition": "Vepër e shtypur ose e shkruar me faqe të lidhura.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Libri i ri është në raft.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "ibri",
+    "inGlossary": true,
+    "synonyms": [
+      "roman",
+      "novela"
+    ],
+    "usageNote": "Përdore 'libër' për veprën; 'botim' për publikimin."
+  },
+  {
+    "wordId": "lidhezë",
+    "term": "Lidhëzë",
+    "definition": "Fjalë që lidh fjali ose pjesë fjalisht.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Dhe është lidhëzë.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "eze",
+    "inGlossary": true
+  },
+  {
+    "wordId": "liria",
+    "term": "Liria",
+    "definition": "Gjendja e të qenit i lirë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Liria është e shtrenjtë.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "iria",
+    "inGlossary": true,
+    "synonyms": [
+      "paqja"
+    ],
+    "usageNote": "Liria shkon bashkë me përgjegjësinë qytetare."
+  },
+  {
+    "wordId": "lirikë",
+    "term": "Lirikë",
+    "definition": "Poezi që shpreh ndjenja.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Lirika e saj është e butë.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "rike",
+    "inGlossary": true,
+    "synonyms": [
+      "poezi",
+      "strofë"
+    ]
+  },
+  {
+    "wordId": "logjikë",
+    "term": "Logjikë",
+    "definition": "Mënyrë e rregullt e arsyetimit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Logjika e argumentit ishte e fortë.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "jike",
+    "inGlossary": true
+  },
+  {
+    "wordId": "loja",
+    "term": "Loja",
+    "definition": "Aktivitet argëtues me rregulla.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Loja e fjalëve është zbavitëse.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "oja",
+    "inGlossary": true
+  },
+  {
+    "wordId": "lulja",
+    "term": "Lulja",
+    "definition": "Pjesa e ngjyrosur e bimës.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Lulja e trëndafilit është e kuqe.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "ulja",
+    "inGlossary": true
+  },
+  {
+    "wordId": "lumi",
+    "term": "Lumi",
+    "definition": "Rrjedhë uji e ëmbël.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Lumi kalon nëpër qytet.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "umi",
+    "inGlossary": true
+  },
+  {
+    "wordId": "mali",
+    "term": "Mali",
+    "definition": "Lartësi e madhe natyrore e tokës.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Mali është i lartë.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "ali",
+    "inGlossary": true,
+    "synonyms": [
+      "lumi"
+    ],
+    "antonyms": [
+      "deti"
+    ]
+  },
+  {
+    "wordId": "mbiemer",
+    "term": "Mbiemër",
+    "definition": "Pjesë e ligjëratës që cilëson emrin.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "I bukur është mbiemër.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "emer",
+    "inGlossary": true
+  },
+  {
+    "wordId": "mbrëmja",
+    "term": "Mbrëmja",
+    "definition": "Fundi i ditës.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Mbrëmja është e freskët.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "emja",
+    "inGlossary": true
+  },
+  {
+    "wordId": "mendimi",
+    "term": "Mendimi",
+    "definition": "Procesi i të arsyetuarit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Mendimi kritik është i rëndësishëm.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "imi",
+    "inGlossary": true
+  },
+  {
+    "wordId": "metafora",
+    "term": "Metaforë",
+    "definition": "Figurë stilistike që identifikon dy gjëra të ndryshme.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Metafora e ndriçon tekstin.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "ore",
+    "inGlossary": true,
+    "synonyms": [
+      "krahason"
+    ],
+    "usageNote": "Metafora thotë 'është'; krahasimi thotë 'si'."
+  },
+  {
+    "wordId": "metri",
+    "term": "Metër",
+    "definition": "Sistemi i ritmit në vargje poetike.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Metri i poezisë është i rregullt.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "eter",
+    "inGlossary": true
+  },
+  {
+    "wordId": "miqesia",
+    "term": "Miqësia",
+    "definition": "Lidhje e ngrohtë midis njerëzve.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Miqësia zgjat me kujdes.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "esia",
+    "inGlossary": true,
+    "synonyms": [
+      "dashuria",
+      "familia"
+    ]
+  },
+  {
+    "wordId": "mit",
+    "term": "Mit",
+    "definition": "Tregim tradicional për perëndi ose heronj.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Miti shpjegon origjinën e botës.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "it",
+    "inGlossary": true
+  },
+  {
+    "wordId": "molla",
+    "term": "Molla",
+    "definition": "Pemë ose fryt i rrumbullakët.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Molla është e ëmbël.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "olla",
+    "inGlossary": true
+  },
+  {
+    "wordId": "monolog",
+    "term": "Monolog",
+    "definition": "Fjalim i gjatë i një personazhi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Monologu shpreh mendimet e tij.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "og",
+    "inGlossary": true,
+    "antonyms": [
+      "dialog"
+    ],
+    "usageNote": "Monologu zbulon mendimet e brendshme."
+  },
+  {
+    "wordId": "motiv",
+    "term": "Motiv",
+    "definition": "Arsyeja e brendshme e veprimit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Motivi i tij ishte drejtësia.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "otiv",
+    "inGlossary": true
+  },
+  {
+    "wordId": "mëngjesi",
+    "term": "Mëngjesi",
+    "definition": "Fillimi i ditës.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Mëngjesi fillon me kafe.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "esi",
+    "inGlossary": true
+  },
+  {
+    "wordId": "mësuesi",
+    "term": "Mësuesi",
+    "definition": "Personi që jep mësim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Mësuesi shpjegon gramatikën.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "esi",
+    "inGlossary": true,
+    "antonyms": [
+      "nxënësi"
+    ],
+    "usageNote": "Mësuesi udhëheq; nxënësi mëson me përgjegjësi."
+  },
+  {
+    "wordId": "narrator",
+    "term": "Tregimtar",
+    "definition": "Zëri që tregon historinë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Tregimtari është i gjithëdijshëm.",
+    "letterOfAlphabet": "T",
+    "rhymeKey": "tar",
+    "inGlossary": true
+  },
+  {
+    "wordId": "nata",
+    "term": "Nata",
+    "definition": "Kohë e errësirës.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Nata është e qetë.",
+    "letterOfAlphabet": "N",
+    "rhymeKey": "ata",
+    "inGlossary": true,
+    "antonyms": [
+      "dita"
+    ],
+    "usageNote": "Nata është koha e errësirës."
+  },
+  {
+    "wordId": "ndajfolje",
+    "term": "Ndajfolje",
+    "definition": "Pjesë e ligjëratës që cilëson foljen.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Shpejt është ndajfolje.",
+    "letterOfAlphabet": "N",
+    "rhymeKey": "olje",
+    "inGlossary": true
+  },
+  {
+    "wordId": "neologjizëm",
+    "term": "Neologjizëm",
+    "definition": "Fjalë ose kuptim i ri në gjuhë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Neologjizmat pasqyrojnë kohën.",
+    "letterOfAlphabet": "N",
+    "rhymeKey": "izem",
+    "inGlossary": true
+  },
+  {
+    "wordId": "njoftim",
+    "term": "Njoftim",
+    "definition": "Informacion i shkurtër zyrtar.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Njoftimi u vendos në mur.",
+    "letterOfAlphabet": "N",
+    "rhymeKey": "oftim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "njohuri",
+    "term": "Njohuri",
+    "definition": "Të dhëna dhe kuptim i fituar me mësim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Njohuria hap dyert.",
+    "letterOfAlphabet": "N",
+    "rhymeKey": "uri",
+    "inGlossary": true
+  },
+  {
+    "wordId": "nota",
+    "term": "Nota",
+    "definition": "Vlerësimi i rezultateve.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Nota e mirë kërkon punë.",
+    "letterOfAlphabet": "N",
+    "rhymeKey": "ota",
+    "inGlossary": true
+  },
+  {
+    "wordId": "notë",
+    "term": "Notë",
+    "definition": "Vlerësim numerik i njohurive.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Nota e mirë kërkon punë.",
+    "letterOfAlphabet": "N",
+    "rhymeKey": "ote",
+    "inGlossary": true,
+    "synonyms": [
+      "vlerësim"
+    ]
+  },
+  {
+    "wordId": "novela",
+    "term": "Novelë",
+    "definition": "Tregim i mesëm, më i shkurtër se romani.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Novela lexohet shpejt.",
+    "letterOfAlphabet": "N",
+    "rhymeKey": "ela",
+    "inGlossary": true,
+    "synonyms": [
+      "roman",
+      "tregim"
+    ]
+  },
+  {
+    "wordId": "nxënësi",
+    "term": "Nxënësi",
+    "definition": "Personi që mëson në shkollë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Nxënësi lexon me zë.",
+    "letterOfAlphabet": "N",
+    "rhymeKey": "esi",
+    "inGlossary": true,
+    "antonyms": [
+      "mësuesi"
+    ],
+    "usageNote": "Nxënësi është pjesëmarrës aktiv në mësim."
+  },
+  {
+    "wordId": "okazion",
+    "term": "Okazion",
+    "definition": "Huazim; në shqip thuhet 'rast' ose 'mundësi'.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Thuaj 'rast' jo 'okazion'.",
+    "letterOfAlphabet": "O",
+    "rhymeKey": "ion",
+    "inGlossary": true
+  },
+  {
+    "wordId": "ora",
+    "term": "Ora",
+    "definition": "Njësia e kohës; edhe ora e mësimit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ora e gjuhës filloi.",
+    "letterOfAlphabet": "O",
+    "rhymeKey": "ora",
+    "inGlossary": true
+  },
+  {
+    "wordId": "orar",
+    "term": "Orar",
+    "definition": "Planifikim i kohës së aktiviteteve.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Orari i mësimit është në klasë.",
+    "letterOfAlphabet": "O",
+    "rhymeKey": "orar",
+    "inGlossary": true
+  },
+  {
+    "wordId": "paraafjalë",
+    "term": "Parafjalë",
+    "definition": "Formë jo-standarde në këtë paketë; përdor hyrjen standarde «Parafjalë».",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Në është parafjalë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ale",
+    "inGlossary": false,
+    "usageNote": "Mos e ngatërro me 'parafjale' — kjo është hyrje korrigjuese."
+  },
+  {
+    "wordId": "parafjale",
+    "term": "Parafjalë",
+    "definition": "Fjalë që tregon marrëdhënie midis emrit dhe pjesëve të tjera.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Me është parafjalë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ale",
+    "inGlossary": true,
+    "synonyms": [],
+    "usageNote": "Parafjala vjen para emrit: në, me, për, nga."
+  },
+  {
+    "wordId": "paragraf",
+    "term": "Paragraf",
+    "definition": "Njësi e tekstit me disa fjali rreth një ideje.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Paragrafi i parë hap temën.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "araf",
+    "inGlossary": true
+  },
+  {
+    "wordId": "pema",
+    "term": "Pema",
+    "definition": "Bimë e madhe me trung dhe degë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Pema jep hije.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ema",
+    "inGlossary": true
+  },
+  {
+    "wordId": "pena",
+    "term": "Penë",
+    "definition": "Mjet shkrimi; simbol i autorit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Pena e tij është e mprehtë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ene",
+    "inGlossary": true
+  },
+  {
+    "wordId": "peremër",
+    "term": "Përemër",
+    "definition": "Fjalë që zëvendëson emrin.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ai është përemër.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "emer",
+    "inGlossary": true
+  },
+  {
+    "wordId": "personazh",
+    "term": "Personazh",
+    "definition": "Figura e trilluar ose reale në një vepër.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Personazhi kryesor ndryshon.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "onazh",
+    "inGlossary": true,
+    "synonyms": [
+      "protagonist",
+      "hero"
+    ],
+    "usageNote": "Çdo personazh ka tipare dhe motivime."
+  },
+  {
+    "wordId": "personifikim",
+    "term": "Personifikim",
+    "definition": "Dhënie tiparesh njerëzore objekteve ose ideve.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Era fluturonte si të fliste — personifikim.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "kim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "pika",
+    "term": "Pikë",
+    "definition": "Shenjë pikësimi që mbyll fjalinë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Vendos pikë në fund.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ika",
+    "inGlossary": true
+  },
+  {
+    "wordId": "pikësim",
+    "term": "Pikësim",
+    "definition": "Shenjat që organizojnë tekstin e shkruar.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Pikësimi ndihmon kuptimin.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "sim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "poezi",
+    "term": "Poezi",
+    "definition": "Lloj krijimtarie letrare me gjuhë të figurshme dhe ritëm.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ajo lexon poezi shqipe.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ezi",
+    "inGlossary": true,
+    "synonyms": [
+      "versi_word",
+      "balade"
+    ],
+    "usageNote": "Poezia përdor figurë dhe ritëm; proza rrëfen pa varg.",
+    "antonyms": [
+      "prozë"
+    ]
+  },
+  {
+    "wordId": "pranvera",
+    "term": "Pranvera",
+    "definition": "Stina kur natyra zgjohet.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Pranvera sjell lule.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "era",
+    "inGlossary": true,
+    "synonyms": [
+      "vera"
+    ],
+    "antonyms": [
+      "dimri"
+    ],
+    "usageNote": "Pranvera simbolizon fillimin dhe rilindjen."
+  },
+  {
+    "wordId": "presje",
+    "term": "Presje",
+    "definition": "Shenjë pikësimi që ndan pjesë të fjalisë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Presja ndan listën.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "esje",
+    "inGlossary": true
+  },
+  {
+    "wordId": "prezantim",
+    "term": "Prezantim",
+    "definition": "Paraqitje me gojë ose me mjete.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Prezantimi zgjati dhjetë minuta.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "antim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "problem",
+    "term": "Problem",
+    "definition": "Çështje për zgjidhje; mund të thuhet edhe 'vështirësi'.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ky është një problem matematik.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "em",
+    "inGlossary": true
+  },
+  {
+    "wordId": "projekt",
+    "term": "Projekt",
+    "definition": "Punë e planifikuar me qëllim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Projekti i klasës fitoi çmim.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ojekt",
+    "inGlossary": true
+  },
+  {
+    "wordId": "protagonist",
+    "term": "Protagonist",
+    "definition": "Personazhi kryesor i veprës.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Protagonisti ndryshon gjatë historisë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ist",
+    "inGlossary": true,
+    "synonyms": [
+      "personazh",
+      "hero"
+    ],
+    "antonyms": [
+      "antagonist"
+    ],
+    "usageNote": "Protagonisti është heroi kryesor i veprës."
+  },
+  {
+    "wordId": "prova",
+    "term": "Prova",
+    "definition": "Testimi i njohurive.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Prova e gjuhës ishte e vështirë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ova",
+    "inGlossary": true
+  },
+  {
+    "wordId": "prozë",
+    "term": "Prozë",
+    "definition": "Shkrim pa metër poetik të rregullt.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Romani shkruhet në prozë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "oze",
+    "inGlossary": true,
+    "antonyms": [
+      "poezi"
+    ],
+    "usageNote": "Proza është shkrim pa varg të rregullt."
+  },
+  {
+    "wordId": "publiku",
+    "term": "Publiku",
+    "definition": "Shikuesit ose lexuesit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Publiku duartrokiti.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "iku",
+    "inGlossary": true
+  },
+  {
+    "wordId": "puna",
+    "term": "Puna",
+    "definition": "Veprimtari për të krijuar ose fituar.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Puna e ndershme vlerësohet.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "una",
+    "inGlossary": true
+  },
+  {
+    "wordId": "pushimi",
+    "term": "Pushimi",
+    "definition": "Kohë pushimi midis orëve.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Pushimi zgjat dhjetë minuta.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "imi",
+    "inGlossary": true
+  },
+  {
+    "wordId": "pyetje",
+    "term": "Pyetje",
+    "definition": "Fjali që kërkon përgjigje.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Pyetja e mësuesit ishte e qartë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "etje",
+    "inGlossary": true,
+    "synonyms": [
+      "përgjigje"
+    ]
+  },
+  {
+    "wordId": "përfundim",
+    "term": "Përfundim",
+    "definition": "Mbyllja e një teksti ose arsyetimi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Përfundimi përmbledh idetë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "undim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "përgjegjësi",
+    "term": "Përgjegjësi",
+    "definition": "Detyrimi për veprimet e veta.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Përgjegjësia rritet me moshën.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "esi",
+    "inGlossary": true
+  },
+  {
+    "wordId": "përgjigje",
+    "term": "Përgjigje",
+    "definition": "Përgjigje me gojë ose me shkrim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Përgjigja e saktë sjell pikë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "igje",
+    "inGlossary": true,
+    "antonyms": [
+      "pyetje"
+    ]
+  },
+  {
+    "wordId": "përkufizim",
+    "term": "Përkufizim",
+    "definition": "Shpjegim i shkurtër i kuptimit të fjalës.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Përkufizimi është në fjalor.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "izim",
+    "inGlossary": true,
+    "synonyms": [
+      "shembull"
+    ]
+  },
+  {
+    "wordId": "përmbledhje",
+    "term": "Përmbledhje",
+    "definition": "Parafrasim i shkurtër i përmbajtjes.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Përmbledhja e kapitullit.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "edhje",
+    "inGlossary": true
+  },
+  {
+    "wordId": "përpjekje",
+    "term": "Përpjekje",
+    "definition": "Sforcim për të arritur diçka.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Përpjekja sjell rezultat.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ekje",
+    "inGlossary": true
+  },
+  {
+    "wordId": "përqendrim",
+    "term": "Përqendrim",
+    "definition": "Mbajtje e vëmendjes te një detyrë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Përqendrimi ndihmon në test.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "drim",
+    "inGlossary": true,
+    "synonyms": [
+      "vëmendje"
+    ]
+  },
+  {
+    "wordId": "përshkrim",
+    "term": "Përshkrim",
+    "definition": "Tregim i tipareve të një sendi ose vendi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Përshkrimi i natyrës është i gjallë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ikrim",
+    "inGlossary": true
+  },
+  {
+    "wordId": "qartesia",
+    "term": "Qartësia",
+    "definition": "Cilësia e të qenit i kuptueshëm.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Qartësia e fjalive ndihmon lexuesin.",
+    "letterOfAlphabet": "Q",
+    "rhymeKey": "esia",
+    "inGlossary": true
+  },
+  {
+    "wordId": "redaktim",
+    "term": "Redaktim",
+    "definition": "Korrigjim i tekstit për saktësi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Redaktimi heq gabimet.",
+    "letterOfAlphabet": "R",
+    "rhymeKey": "aktim",
+    "inGlossary": true,
+    "synonyms": [
+      "rishikim",
+      "saktësi"
+    ]
+  },
+  {
+    "wordId": "refren",
+    "term": "Refren",
+    "definition": "Pjesë që përsëritet në poezi ose këngë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Refreni mbahet mend lehtë.",
+    "letterOfAlphabet": "R",
+    "rhymeKey": "en",
+    "inGlossary": true
+  },
+  {
+    "wordId": "respekt",
+    "term": "Respekt",
+    "definition": "Qëndrim i kujdesshëm ndaj të tjerëve.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Respekti fillon me dëgjim.",
+    "letterOfAlphabet": "R",
+    "rhymeKey": "ekt",
+    "inGlossary": true
+  },
+  {
+    "wordId": "revista",
+    "term": "Revista",
+    "definition": "Botim periodik me artikuj tematikë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Revista letrare boton poezi.",
+    "letterOfAlphabet": "R",
+    "rhymeKey": "ista",
+    "inGlossary": true
+  },
+  {
+    "wordId": "rima",
+    "term": "Rimë",
+    "definition": "Përsëritje e tingujve të ngjashëm në fund të vargjeve.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Poezia ka rimë të bukur.",
+    "letterOfAlphabet": "R",
+    "rhymeKey": "ima",
+    "inGlossary": true,
+    "synonyms": [
+      "ritmi"
+    ],
+    "usageNote": "Rimë = tinguj të ngjashëm në fund; mos e ngatërro me ritmin."
+  },
+  {
+    "wordId": "rishikim",
+    "term": "Rishikim",
+    "definition": "Lexim i ri për të përmirësuar.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Rishikimi i esesë ndihmon.",
+    "letterOfAlphabet": "R",
+    "rhymeKey": "ikim",
+    "inGlossary": true,
+    "synonyms": [
+      "redaktim"
+    ]
+  },
+  {
+    "wordId": "ritmi",
+    "term": "Ritëm",
+    "definition": "Rregullsia e tingujve dhe theksimeve.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ritmi i vargut është i gjallë.",
+    "letterOfAlphabet": "R",
+    "rhymeKey": "item",
+    "inGlossary": true
+  },
+  {
+    "wordId": "roman",
+    "term": "Roman",
+    "definition": "Vepër e gjatë narrative në prozë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Romani ka shumë personazhe.",
+    "letterOfAlphabet": "R",
+    "rhymeKey": "oman",
+    "inGlossary": true,
+    "synonyms": [
+      "novela",
+      "tregim"
+    ],
+    "antonyms": [
+      "tregim"
+    ],
+    "usageNote": "Romani është më i gjatë se novela dhe tregimi."
+  },
+  {
+    "wordId": "saktësi",
+    "term": "Saktësi",
+    "definition": "Cilësia e të qenit i saktë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Saktësia e përgjigjes.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "esi",
+    "inGlossary": true,
+    "antonyms": [
+      "gabim"
+    ]
+  },
+  {
+    "wordId": "satire",
+    "term": "Satirë",
+    "definition": "Kritikë artistike me humor ose tallje.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Satira qorton veset e shoqërisë.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "ire",
+    "inGlossary": true
+  },
+  {
+    "wordId": "shembull",
+    "term": "Shembull",
+    "definition": "Rast që ilustron një ide.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Jep një shembull nga jeta.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "embull",
+    "inGlossary": true,
+    "synonyms": [
+      "argument"
+    ]
+  },
+  {
+    "wordId": "shkolla",
+    "term": "Shkolla",
+    "definition": "Institucion ku mësohen njohuri dhe aftësi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Shkolla fillon në shtator.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "olla",
+    "inGlossary": true,
+    "synonyms": [
+      "klasa"
+    ],
+    "usageNote": "Shkolla është institucioni; klasa është grupi ose dhoma."
+  },
+  {
+    "wordId": "shkrimi",
+    "term": "Shkrimi",
+    "definition": "Shprehje e mendimit me shkronja.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Shkrimi kërkon ushtrim.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "imi",
+    "inGlossary": true,
+    "synonyms": [
+      "ese",
+      "drejtshkrim"
+    ],
+    "usageNote": "Shkrimi i mirë kërkon plan, fjali të qarta dhe pikësim."
+  },
+  {
+    "wordId": "shqiponja",
+    "term": "Shqiponja",
+    "definition": "Shpendi simbol i Shqipërisë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Shqiponja dykrenare është simbol.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "onja",
+    "inGlossary": true
+  },
+  {
+    "wordId": "simbol",
+    "term": "Simbol",
+    "definition": "Shenjë që përfaqëson një ide.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Flamuri është simbol kombëtar.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "imbol",
+    "inGlossary": true
+  },
+  {
+    "wordId": "sinoním",
+    "term": "Sinoním",
+    "definition": "Fjalë me kuptim të ngjashëm.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "I bukur dhe i hijshëm janë sinonime.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "onim",
+    "inGlossary": true,
+    "antonyms": [
+      "antonim"
+    ],
+    "usageNote": "Sinonimet kanë kuptim të ngjashëm, jo gjithmonë të njëjtë."
+  },
+  {
+    "wordId": "skena",
+    "term": "Skena",
+    "definition": "Hapësira ku luhet drama.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Skena u ndriçua.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "ena",
+    "inGlossary": true
+  },
+  {
+    "wordId": "sofa",
+    "term": "Sofà",
+    "definition": "Divan; fjalë e huazuar — për kontrast me fjalë shqipe.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Prefero 'divan' në vend të 'sofa'.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "ofa",
+    "inGlossary": true
+  },
+  {
+    "wordId": "standarde",
+    "term": "Standarde",
+    "definition": "Forma e përbashkët e gjuhës së shkruar.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Shqipja standarde mësohet në shkollë.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "arde",
+    "inGlossary": true
+  },
+  {
+    "wordId": "stil",
+    "term": "Stil",
+    "definition": "Mënyra e veçantë e shprehjes së autorit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Stili i tij është i thjeshtë.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "il",
+    "inGlossary": true
+  },
+  {
+    "wordId": "stola",
+    "term": "Stola",
+    "definition": "Veshje e gjatë; përdoret për rimë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Stola e bardhë.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "ola",
+    "inGlossary": false
+  },
+  {
+    "wordId": "strofa",
+    "term": "Strofë",
+    "definition": "Grup vargjesh që formojnë një njësi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Strofa e dytë është më e qetë.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "ofe",
+    "inGlossary": true
+  },
+  {
+    "wordId": "strofë",
+    "term": "Strofë",
+    "definition": "Grup vargjesh në poezi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Strofa e dytë është më e qetë.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "rofe",
+    "inGlossary": true,
+    "synonyms": [
+      "versi",
+      "refren"
+    ]
+  },
+  {
+    "wordId": "sukses",
+    "term": "Sukses",
+    "definition": "Arritje e qëllimit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Suksesi kërkon durim.",
+    "letterOfAlphabet": "S",
+    "rhymeKey": "es",
+    "inGlossary": true,
+    "synonyms": [
+      "fitorja"
+    ],
+    "antonyms": [
+      "gabim"
+    ],
+    "usageNote": "Suksesi vjen nga përpjekja e qëndrueshme."
+  },
+  {
+    "wordId": "teatri",
+    "term": "Teatri",
+    "definition": "Vend dhe art i shfaqjes së dramave.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Teatri ishte i mbushur.",
+    "letterOfAlphabet": "T",
+    "rhymeKey": "atri",
+    "inGlossary": true
+  },
+  {
+    "wordId": "tema",
+    "term": "Temë",
+    "definition": "Ideja qendrore e një teksti.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Tema e poezisë është liria.",
+    "letterOfAlphabet": "T",
+    "rhymeKey": "eme",
+    "inGlossary": true
+  },
+  {
+    "wordId": "thirrmore",
+    "term": "Thirmore",
+    "definition": "Fjalë që shpreh emocion.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Oh! është thirmore.",
+    "letterOfAlphabet": "T",
+    "rhymeKey": "ore",
+    "inGlossary": true
+  },
+  {
+    "wordId": "thjeshtesia",
+    "term": "Thjeshtësia",
+    "definition": "Cilësia e të qenit i qartë dhe i drejtpërdrejtë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Thjeshtësia e stilit është virtyt.",
+    "letterOfAlphabet": "T",
+    "rhymeKey": "esia",
+    "inGlossary": true
+  },
+  {
+    "wordId": "tradita",
+    "term": "Tradita",
+    "definition": "Zakone dhe vlera që trashëgohen.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Tradita ruhet me kujdes.",
+    "letterOfAlphabet": "T",
+    "rhymeKey": "ita",
+    "inGlossary": true
+  },
+  {
+    "wordId": "tragjedi",
+    "term": "Tragjedi",
+    "definition": "Dramë me konflikt të rëndë dhe fund të trishtë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Tragjedia lëviz ndjenjat.",
+    "letterOfAlphabet": "T",
+    "rhymeKey": "edi",
+    "inGlossary": true,
+    "antonyms": [
+      "komedi"
+    ]
+  },
+  {
+    "wordId": "tregim",
+    "term": "Tregim",
+    "definition": "Narrativë e shkurtër në prozë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Tregimi ka kulmin në fund.",
+    "letterOfAlphabet": "T",
+    "rhymeKey": "egim",
+    "inGlossary": true,
+    "synonyms": [
+      "novela",
+      "fabula"
+    ],
+    "antonyms": [
+      "roman"
+    ],
+    "usageNote": "Tregimi është narrativë e shkurtër në prozë."
+  },
+  {
+    "wordId": "valle",
+    "term": "Valle",
+    "definition": "Kërcim tradicional.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Vallja shqiptare është energjike.",
+    "letterOfAlphabet": "V",
+    "rhymeKey": "alle",
+    "inGlossary": true
+  },
+  {
+    "wordId": "vera",
+    "term": "Vera",
+    "definition": "Stina e nxehtë e vitit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Vera është koha e pushimeve.",
+    "letterOfAlphabet": "V",
+    "rhymeKey": "era",
+    "inGlossary": true,
+    "synonyms": [
+      "pranvera"
+    ],
+    "antonyms": [
+      "dimri"
+    ],
+    "usageNote": "Vera shpesh lidhet me pushimet shkollore."
+  },
+  {
+    "wordId": "versi",
+    "term": "Varg",
+    "definition": "Një rresht në poezi.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Vargu i parë është i fortë.",
+    "letterOfAlphabet": "V",
+    "rhymeKey": "arg",
+    "inGlossary": true
+  },
+  {
+    "wordId": "versi_word",
+    "term": "Vers",
+    "definition": "Njësi metrike e poezisë; sinonim i vargut.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Çdo vers ka ritëm.",
+    "letterOfAlphabet": "V",
+    "rhymeKey": "ers",
+    "inGlossary": true
+  },
+  {
+    "wordId": "vjeshta",
+    "term": "Vjeshta",
+    "definition": "Stina e korrjeve dhe e gjetheve që bien.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Vjeshta ngjyros pemët.",
+    "letterOfAlphabet": "V",
+    "rhymeKey": "eshta",
+    "inGlossary": true
+  },
+  {
+    "wordId": "vlerësim",
+    "term": "Vlerësim",
+    "definition": "Gjykimi i cilësisë ose njohurive.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Vlerësimi ishte i drejtë.",
+    "letterOfAlphabet": "V",
+    "rhymeKey": "esim",
+    "inGlossary": true,
+    "synonyms": [
+      "notë"
+    ]
+  },
+  {
+    "wordId": "vëmendje",
+    "term": "Vëmendje",
+    "definition": "Përqendrim i ndjenjave te diçka.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Vëmendja në klasë është e rëndësishme.",
+    "letterOfAlphabet": "V",
+    "rhymeKey": "endje",
+    "inGlossary": true,
+    "synonyms": [
+      "përqendrim"
+    ]
+  },
+  {
+    "wordId": "ylli",
+    "term": "Ylli",
+    "definition": "Trup qiellor që shkëlqen.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ylli i mëngjesit shkëlqen.",
+    "letterOfAlphabet": "Y",
+    "rhymeKey": "lli",
+    "inGlossary": true
+  },
+  {
+    "wordId": "zanore",
+    "term": "Zanore",
+    "definition": "Tingull i folur pa pengesë në gojë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "A është zanore.",
+    "letterOfAlphabet": "Z",
+    "rhymeKey": "ore",
+    "inGlossary": true
+  },
+  {
+    "wordId": "zgjidhje",
+    "term": "Zgjidhje",
+    "definition": "Përfundimi i konfliktit në narrativë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Zgjidhja sjell qetësi.",
+    "letterOfAlphabet": "Z",
+    "rhymeKey": "idhje",
+    "inGlossary": true
+  },
+  {
+    "wordId": "zogu",
+    "term": "Zogu",
+    "definition": "Kafshë e mbuluar me pendë që fluturon.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Zogu këndon në mëngjes.",
+    "letterOfAlphabet": "Z",
+    "rhymeKey": "ogu",
+    "inGlossary": true
+  },
+  {
+    "wordId": "çmim",
+    "term": "Çmim",
+    "definition": "Shpërblim për sukses.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Çmimi është një medalje.",
+    "letterOfAlphabet": "Ç",
+    "rhymeKey": "im",
+    "inGlossary": true
+  },
+  {
+    "wordId": "era",
+    "term": "Era",
+    "definition": "Lëvizje e ajrit.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Era e ftohtë frynte.",
+    "letterOfAlphabet": "E",
+    "rhymeKey": "era",
+    "inGlossary": true
+  },
+  {
+    "wordId": "natyra",
+    "term": "Natyra",
+    "definition": "Bota e gjallë dhe e pajallë rreth nesh.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Natyra duhet mbrojtur.",
+    "letterOfAlphabet": "N",
+    "rhymeKey": "yra",
+    "inGlossary": true,
+    "synonyms": [
+      "mjedisi",
+      "pylli"
+    ],
+    "usageNote": "Kur flet për mbrojtje, thuaj 'mjedisi' ose 'natyra'."
+  },
+  {
+    "wordId": "paqja",
+    "term": "Paqja",
+    "definition": "Gjendja pa luftë dhe me harmoni.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Paqja është e çmuar.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "aqja",
+    "inGlossary": true,
+    "synonyms": [
+      "liria"
+    ],
+    "usageNote": "Paqja është vlerë qytetare dhe temë eseje e fortë."
+  },
+  {
+    "wordId": "qytetari",
+    "term": "Qytetar",
+    "definition": "Anëtar i një shteti me të drejta dhe detyra.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Qytetari respekton ligjin.",
+    "letterOfAlphabet": "Q",
+    "rhymeKey": "ar",
+    "inGlossary": true
+  },
+  {
+    "wordId": "ligji",
+    "term": "Ligji",
+    "definition": "Rregull zyrtar i detyrueshëm.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Ligji mbron të drejtat.",
+    "letterOfAlphabet": "L",
+    "rhymeKey": "igji",
+    "inGlossary": true
+  },
+  {
+    "wordId": "barazia",
+    "term": "Barazia",
+    "definition": "Trajtim i njëjtë pa diskriminim.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Barazia është vlerë qytetare.",
+    "letterOfAlphabet": "B",
+    "rhymeKey": "azia",
+    "inGlossary": true
+  },
+  {
+    "wordId": "mjedisi",
+    "term": "Mjedisi",
+    "definition": "Rrethina natyrore dhe shoqërore ku jetojmë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Mjedisi duhet ruajtur pastër.",
+    "letterOfAlphabet": "M",
+    "rhymeKey": "esi",
+    "inGlossary": true
+  },
+  {
+    "wordId": "pylli",
+    "term": "Pylli",
+    "definition": "Sipërfaqe e madhe e mbuluar me pemë.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Pylli është i verdhë në vjeshtë.",
+    "letterOfAlphabet": "P",
+    "rhymeKey": "ylli",
+    "inGlossary": true
+  },
+  {
+    "wordId": "komuniteti",
+    "term": "Komuniteti",
+    "definition": "Grup njerëzish që jetojnë ose veprojnë së bashku.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Komuniteti organizoi një festë.",
+    "letterOfAlphabet": "K",
+    "rhymeKey": "eti",
+    "inGlossary": true
+  },
+  {
+    "wordId": "detyrimi",
+    "term": "Detyrim",
+    "definition": "Përgjegjësi që duhet përmbushur.",
+    "partOfSpeech": "emër",
+    "exampleSentence": "Detyrimi qytetar është i rëndësishëm.",
+    "letterOfAlphabet": "D",
+    "rhymeKey": "im",
+    "inGlossary": true
+  }
+]

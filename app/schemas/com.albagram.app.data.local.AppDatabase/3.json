@@ -1,0 +1,524 @@
+{
+  "formatVersion": 1,
+  "database": {
+    "version": 3,
+    "identityHash": "e0e9f0aa572b152cc0ec561b44688563",
+    "entities": [
+      {
+        "tableName": "words",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`wordId` TEXT NOT NULL, `term` TEXT NOT NULL, `definition` TEXT NOT NULL, `partOfSpeech` TEXT, `exampleSentence` TEXT, `letterOfAlphabet` TEXT NOT NULL, `rhymeKey` TEXT NOT NULL, `inGlossary` INTEGER NOT NULL, `synonymsJson` TEXT NOT NULL, `antonymsJson` TEXT NOT NULL, `usageNote` TEXT, PRIMARY KEY(`wordId`))",
+        "fields": [
+          {
+            "fieldPath": "wordId",
+            "columnName": "wordId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "term",
+            "columnName": "term",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "definition",
+            "columnName": "definition",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "partOfSpeech",
+            "columnName": "partOfSpeech",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "exampleSentence",
+            "columnName": "exampleSentence",
+            "affinity": "TEXT",
+            "notNull": false
+          },
+          {
+            "fieldPath": "letterOfAlphabet",
+            "columnName": "letterOfAlphabet",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "rhymeKey",
+            "columnName": "rhymeKey",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "inGlossary",
+            "columnName": "inGlossary",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "synonymsJson",
+            "columnName": "synonymsJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "antonymsJson",
+            "columnName": "antonymsJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "usageNote",
+            "columnName": "usageNote",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "wordId"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "crossword_puzzles",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`puzzleId` TEXT NOT NULL, `title` TEXT NOT NULL, `width` INTEGER NOT NULL, `height` INTEGER NOT NULL, `gridJson` TEXT NOT NULL, PRIMARY KEY(`puzzleId`))",
+        "fields": [
+          {
+            "fieldPath": "puzzleId",
+            "columnName": "puzzleId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "title",
+            "columnName": "title",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "width",
+            "columnName": "width",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "height",
+            "columnName": "height",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "gridJson",
+            "columnName": "gridJson",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "puzzleId"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "crossword_clues",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`clueId` TEXT NOT NULL, `puzzleId` TEXT NOT NULL, `wordId` TEXT NOT NULL, `direction` TEXT NOT NULL, `number` INTEGER NOT NULL, `row` INTEGER NOT NULL, `col` INTEGER NOT NULL, `length` INTEGER NOT NULL, `clueText` TEXT NOT NULL, `answer` TEXT NOT NULL, PRIMARY KEY(`clueId`), FOREIGN KEY(`puzzleId`) REFERENCES `crossword_puzzles`(`puzzleId`) ON UPDATE NO ACTION ON DELETE CASCADE , FOREIGN KEY(`wordId`) REFERENCES `words`(`wordId`) ON UPDATE NO ACTION ON DELETE CASCADE )",
+        "fields": [
+          {
+            "fieldPath": "clueId",
+            "columnName": "clueId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "puzzleId",
+            "columnName": "puzzleId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "wordId",
+            "columnName": "wordId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "direction",
+            "columnName": "direction",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "number",
+            "columnName": "number",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "row",
+            "columnName": "row",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "col",
+            "columnName": "col",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "length",
+            "columnName": "length",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "clueText",
+            "columnName": "clueText",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "answer",
+            "columnName": "answer",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "clueId"
+          ]
+        },
+        "indices": [
+          {
+            "name": "index_crossword_clues_puzzleId",
+            "unique": false,
+            "columnNames": [
+              "puzzleId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_crossword_clues_puzzleId` ON `${TABLE_NAME}` (`puzzleId`)"
+          },
+          {
+            "name": "index_crossword_clues_wordId",
+            "unique": false,
+            "columnNames": [
+              "wordId"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_crossword_clues_wordId` ON `${TABLE_NAME}` (`wordId`)"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "table": "crossword_puzzles",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "puzzleId"
+            ],
+            "referencedColumns": [
+              "puzzleId"
+            ]
+          },
+          {
+            "table": "words",
+            "onDelete": "CASCADE",
+            "onUpdate": "NO ACTION",
+            "columns": [
+              "wordId"
+            ],
+            "referencedColumns": [
+              "wordId"
+            ]
+          }
+        ]
+      },
+      {
+        "tableName": "crossword_progress",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`puzzleId` TEXT NOT NULL, `entriesJson` TEXT NOT NULL, `solvedClueIdsJson` TEXT NOT NULL, `hintedClueIdsJson` TEXT NOT NULL, `completed` INTEGER NOT NULL, `updatedAt` INTEGER NOT NULL, PRIMARY KEY(`puzzleId`))",
+        "fields": [
+          {
+            "fieldPath": "puzzleId",
+            "columnName": "puzzleId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "entriesJson",
+            "columnName": "entriesJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "solvedClueIdsJson",
+            "columnName": "solvedClueIdsJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "hintedClueIdsJson",
+            "columnName": "hintedClueIdsJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "completed",
+            "columnName": "completed",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "updatedAt",
+            "columnName": "updatedAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "puzzleId"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "quiz_questions",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`questionId` TEXT NOT NULL, `prompt` TEXT NOT NULL, `optionsJson` TEXT NOT NULL, `correctIndex` INTEGER NOT NULL, `timeLimitSeconds` INTEGER NOT NULL, `relatedWordId` TEXT, PRIMARY KEY(`questionId`))",
+        "fields": [
+          {
+            "fieldPath": "questionId",
+            "columnName": "questionId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "prompt",
+            "columnName": "prompt",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "optionsJson",
+            "columnName": "optionsJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "correctIndex",
+            "columnName": "correctIndex",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "timeLimitSeconds",
+            "columnName": "timeLimitSeconds",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "relatedWordId",
+            "columnName": "relatedWordId",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "questionId"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "essay_prompts",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`promptId` TEXT NOT NULL, `title` TEXT NOT NULL, `promptText` TEXT NOT NULL, `suggestedWordIdsJson` TEXT NOT NULL, PRIMARY KEY(`promptId`))",
+        "fields": [
+          {
+            "fieldPath": "promptId",
+            "columnName": "promptId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "title",
+            "columnName": "title",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "promptText",
+            "columnName": "promptText",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "suggestedWordIdsJson",
+            "columnName": "suggestedWordIdsJson",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "promptId"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "essay_drafts",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`promptId` TEXT NOT NULL, `body` TEXT NOT NULL, `updatedAt` INTEGER NOT NULL, `completedAt` INTEGER, PRIMARY KEY(`promptId`))",
+        "fields": [
+          {
+            "fieldPath": "promptId",
+            "columnName": "promptId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "body",
+            "columnName": "body",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "updatedAt",
+            "columnName": "updatedAt",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "completedAt",
+            "columnName": "completedAt",
+            "affinity": "INTEGER",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "promptId"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "saved_words",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`wordId` TEXT NOT NULL, `dateSaved` INTEGER NOT NULL, `timesReviewed` INTEGER NOT NULL, `sourceModule` TEXT, PRIMARY KEY(`wordId`))",
+        "fields": [
+          {
+            "fieldPath": "wordId",
+            "columnName": "wordId",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "dateSaved",
+            "columnName": "dateSaved",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "timesReviewed",
+            "columnName": "timesReviewed",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "sourceModule",
+            "columnName": "sourceModule",
+            "affinity": "TEXT",
+            "notNull": false
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "wordId"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      },
+      {
+        "tableName": "user_progress",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`id` INTEGER NOT NULL, `score` INTEGER NOT NULL, `streak` INTEGER NOT NULL, `badgesJson` TEXT NOT NULL, `lastVisitDate` TEXT NOT NULL, `dailyVisitStreak` INTEGER NOT NULL, `dailyCompletedJson` TEXT NOT NULL, PRIMARY KEY(`id`))",
+        "fields": [
+          {
+            "fieldPath": "id",
+            "columnName": "id",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "score",
+            "columnName": "score",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "streak",
+            "columnName": "streak",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "badgesJson",
+            "columnName": "badgesJson",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "lastVisitDate",
+            "columnName": "lastVisitDate",
+            "affinity": "TEXT",
+            "notNull": true
+          },
+          {
+            "fieldPath": "dailyVisitStreak",
+            "columnName": "dailyVisitStreak",
+            "affinity": "INTEGER",
+            "notNull": true
+          },
+          {
+            "fieldPath": "dailyCompletedJson",
+            "columnName": "dailyCompletedJson",
+            "affinity": "TEXT",
+            "notNull": true
+          }
+        ],
+        "primaryKey": {
+          "autoGenerate": false,
+          "columnNames": [
+            "id"
+          ]
+        },
+        "indices": [],
+        "foreignKeys": []
+      }
+    ],
+    "views": [],
+    "setupQueries": [
+      "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, 'e0e9f0aa572b152cc0ec561b44688563')"
+    ]
+  }
+}

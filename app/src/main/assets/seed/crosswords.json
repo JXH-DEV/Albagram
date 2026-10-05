@@ -1,0 +1,305 @@
+{
+  "puzzles": [
+    {
+      "puzzleId": "puzzle_gjuha",
+      "title": "Gjuha ime",
+      "width": 6,
+      "height": 6,
+      "clues": [
+        {
+          "clueId": "gjuha_1d",
+          "wordId": "balade",
+          "direction": "DOWN",
+          "number": 1,
+          "row": 0,
+          "col": 1,
+          "length": 6,
+          "clueText": "Poezi narrative me ton emocional",
+          "answer": "BALADE"
+        },
+        {
+          "clueId": "gjuha_2a",
+          "wordId": "libri",
+          "direction": "ACROSS",
+          "number": 2,
+          "row": 2,
+          "col": 1,
+          "length": 5,
+          "clueText": "Vepër e shtypur me faqe të lidhura",
+          "answer": "LIBRI"
+        },
+        {
+          "clueId": "gjuha_3d",
+          "wordId": "rima",
+          "direction": "DOWN",
+          "number": 3,
+          "row": 2,
+          "col": 4,
+          "length": 4,
+          "clueText": "Përsëritje tingujsh në fund të vargjeve (pa ë)",
+          "answer": "RIME"
+        },
+        {
+          "clueId": "gjuha_4a",
+          "wordId": "ese",
+          "direction": "ACROSS",
+          "number": 4,
+          "row": 5,
+          "col": 1,
+          "length": 3,
+          "clueText": "Shkrim i shkurtër mbi një temë",
+          "answer": "ESE"
+        }
+      ]
+    },
+    {
+      "puzzleId": "puzzle_poezi",
+      "title": "Bota e poezisë",
+      "width": 7,
+      "height": 5,
+      "clues": [
+        {
+          "clueId": "poezi_1a",
+          "wordId": "poezi",
+          "direction": "ACROSS",
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "length": 5,
+          "clueText": "Krijimtari letrare me ritëm dhe figura",
+          "answer": "POEZI"
+        },
+        {
+          "clueId": "poezi_2d",
+          "wordId": "ide",
+          "direction": "DOWN",
+          "number": 2,
+          "row": 0,
+          "col": 4,
+          "length": 3,
+          "clueText": "Mendim ose koncept qendror",
+          "answer": "IDE"
+        },
+        {
+          "clueId": "poezi_3d",
+          "wordId": "libri",
+          "direction": "DOWN",
+          "number": 3,
+          "row": 0,
+          "col": 6,
+          "length": 5,
+          "clueText": "Ku i mbledhim tekstet e shkruara",
+          "answer": "LIBRI"
+        },
+        {
+          "clueId": "poezi_4a",
+          "wordId": "fjale",
+          "direction": "ACROSS",
+          "number": 4,
+          "row": 2,
+          "col": 0,
+          "length": 5,
+          "clueText": "Njësia bazë e gjuhës",
+          "answer": "FJALE"
+        }
+      ]
+    },
+    {
+      "puzzleId": "puzzle_shkolla",
+      "title": "Në shkollë",
+      "width": 5,
+      "height": 7,
+      "clues": [
+        {
+          "clueId": "shkolla_1d",
+          "wordId": "shkolla",
+          "direction": "DOWN",
+          "number": 1,
+          "row": 0,
+          "col": 2,
+          "length": 7,
+          "clueText": "Institucioni ku mësojmë",
+          "answer": "SHKOLLA"
+        },
+        {
+          "clueId": "shkolla_2a",
+          "wordId": "molla",
+          "direction": "ACROSS",
+          "number": 2,
+          "row": 4,
+          "col": 0,
+          "length": 5,
+          "clueText": "Pemë me fryt të ëmbël (rimë me shkolla)",
+          "answer": "MOLLA"
+        }
+      ]
+    },
+    {
+      "puzzleId": "puzzle_natyra",
+      "title": "Natyra jonë",
+      "width": 6,
+      "height": 6,
+      "clues": [
+        {
+          "clueId": "natyra_1d",
+          "wordId": "dielli",
+          "direction": "DOWN",
+          "number": 1,
+          "row": 0,
+          "col": 2,
+          "length": 6,
+          "clueText": "Ylli që na ndriçon ditën",
+          "answer": "DIELLI"
+        },
+        {
+          "clueId": "natyra_2a",
+          "wordId": "deti",
+          "direction": "ACROSS",
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "length": 4,
+          "clueText": "Ujëra të gjera të kripura",
+          "answer": "DETI"
+        },
+        {
+          "clueId": "natyra_3a",
+          "wordId": "mali",
+          "direction": "ACROSS",
+          "number": 3,
+          "row": 3,
+          "col": 0,
+          "length": 4,
+          "clueText": "Lartësi e madhe e tokës",
+          "answer": "MALI"
+        },
+        {
+          "clueId": "natyra_4a",
+          "wordId": "lumi",
+          "direction": "ACROSS",
+          "number": 4,
+          "row": 4,
+          "col": 2,
+          "length": 4,
+          "clueText": "Rrjedhë uji e ëmbël",
+          "answer": "LUMI"
+        }
+      ]
+    },
+    {
+      "puzzleId": "puzzle_shkrimi",
+      "title": "Art i shkrimit",
+      "width": 5,
+      "height": 5,
+      "clues": [
+        {
+          "clueId": "shkrimi_1a",
+          "wordId": "libri",
+          "direction": "ACROSS",
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "length": 5,
+          "clueText": "Vepër e shtypur me faqe",
+          "answer": "LIBRI"
+        },
+        {
+          "clueId": "shkrimi_2d",
+          "wordId": "rima",
+          "direction": "DOWN",
+          "number": 2,
+          "row": 0,
+          "col": 3,
+          "length": 4,
+          "clueText": "Përsëritje tingujsh në fund të vargut",
+          "answer": "RIME"
+        },
+        {
+          "clueId": "shkrimi_3a",
+          "wordId": "stil",
+          "direction": "ACROSS",
+          "number": 3,
+          "row": 1,
+          "col": 1,
+          "length": 4,
+          "clueText": "Mënyra e veçantë e shprehjes",
+          "answer": "STIL"
+        },
+        {
+          "clueId": "shkrimi_4a",
+          "wordId": "tema",
+          "direction": "ACROSS",
+          "number": 4,
+          "row": 2,
+          "col": 1,
+          "length": 4,
+          "clueText": "Ideja qendrore e tekstit",
+          "answer": "TEME"
+        },
+        {
+          "clueId": "shkrimi_5d",
+          "wordId": "ese",
+          "direction": "DOWN",
+          "number": 5,
+          "row": 2,
+          "col": 2,
+          "length": 3,
+          "clueText": "Shkrim i shkurtër mbi një temë",
+          "answer": "ESE"
+        }
+      ]
+    },
+    {
+      "puzzleId": "puzzle_atdheu",
+      "title": "Atdheu ynë",
+      "width": 6,
+      "height": 5,
+      "clues": [
+        {
+          "clueId": "atdheu_1a",
+          "wordId": "atdheu",
+          "direction": "ACROSS",
+          "number": 1,
+          "row": 0,
+          "col": 0,
+          "length": 6,
+          "clueText": "Vendi i lindjes dhe i përkatësisë",
+          "answer": "ATDHEU"
+        },
+        {
+          "clueId": "atdheu_2d",
+          "wordId": "deti",
+          "direction": "DOWN",
+          "number": 2,
+          "row": 0,
+          "col": 2,
+          "length": 4,
+          "clueText": "Ujëra që lajnë bregdetin tonë",
+          "answer": "DETI"
+        },
+        {
+          "clueId": "atdheu_3a",
+          "wordId": "era",
+          "direction": "ACROSS",
+          "number": 3,
+          "row": 1,
+          "col": 2,
+          "length": 3,
+          "clueText": "Lëvizje e ajrit",
+          "answer": "ERA"
+        },
+        {
+          "clueId": "atdheu_4a",
+          "wordId": "liria",
+          "direction": "ACROSS",
+          "number": 4,
+          "row": 3,
+          "col": 1,
+          "length": 5,
+          "clueText": "Gjendja e të qenit i lirë",
+          "answer": "LIRIA"
+        }
+      ]
+    }
+  ]
+}

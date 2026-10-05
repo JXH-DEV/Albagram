@@ -1,0 +1,114 @@
+[
+  {
+    "promptId": "essay_pranvera",
+    "title": "Pranvera",
+    "promptText": "Pranvera është stina më e bukur e vitit. Shkruaj një ese të shkurtër duke përshkruar natyrën, ndjenjat dhe kujtimet e tua.",
+    "suggestedWordIds": [
+      "pranvera",
+      "lulja",
+      "dielli",
+      "bukuria",
+      "pema",
+      "zogu",
+      "liria"
+    ]
+  },
+  {
+    "promptId": "essay_gjuha",
+    "title": "Gjuha shqipe",
+    "promptText": "Pse është e rëndësishme të flasim dhe të shkruajmë shqip të pastër? Argumento me shembuj nga jeta jote.",
+    "suggestedWordIds": [
+      "gjuha",
+      "fjalori",
+      "huazim",
+      "drejtshkrim",
+      "kultura",
+      "tradita",
+      "shkrimi"
+    ]
+  },
+  {
+    "promptId": "essay_shkolla",
+    "title": "Shkolla ime",
+    "promptText": "Përshkruaj një ditë tipike në shkollë dhe çfarë të motivon të mësosh.",
+    "suggestedWordIds": [
+      "shkolla",
+      "mësuesi",
+      "nxënësi",
+      "detyra",
+      "njohuri",
+      "miqesia",
+      "sukses"
+    ]
+  },
+  {
+    "promptId": "essay_atdheu",
+    "title": "Atdheu",
+    "promptText": "Çfarë do të thotë atdheu për ty? Lidhe me simbolet, traditat dhe të ardhmen.",
+    "suggestedWordIds": [
+      "atdheu",
+      "flamuri",
+      "shqiponja",
+      "kultura",
+      "tradita",
+      "ardhmëria",
+      "liria"
+    ]
+  },
+  {
+    "promptId": "essay_leximi",
+    "title": "Fuqia e leximit",
+    "promptText": "Si të ndihmon leximi të rritesh? Përmend libra, poezi ose tregime që të kanë lënë përshtypje.",
+    "suggestedWordIds": [
+      "leximi",
+      "libri",
+      "poezi",
+      "imagjinata",
+      "mendimi",
+      "fjalori",
+      "krijimtaria"
+    ]
+  },
+  {
+    "promptId": "essay_miqesia",
+    "title": "Miqësia e vërtetë",
+    "promptText": "Çfarë e bën një miqësi të fortë? Shkruaj me shembuj nga jeta jote shkollore.",
+    "suggestedWordIds": [
+      "miqesia",
+      "respekt",
+      "përgjegjësi",
+      "besimi",
+      "bashkëpunim",
+      "diskutim",
+      "liria"
+    ]
+  },
+  {
+    "promptId": "essay_teknologjia",
+    "title": "Teknologjia dhe leximi",
+    "promptText": "A ndihmon teknologjia të lexosh më shumë, apo të shpërqendron? Argumento.",
+    "suggestedWordIds": [
+      "leximi",
+      "vëmendje",
+      "përqendrim",
+      "libri",
+      "argument",
+      "shembull",
+      "përfundim"
+    ]
+  },
+  {
+    "promptId": "essay_natyra",
+    "title": "Natyra pranë nesh",
+    "promptText": "Përshkruaj një vend natyror që të pëlqen dhe shpjego pse duhet ta mbrojmë.",
+    "suggestedWordIds": [
+      "mali",
+      "deti",
+      "lumi",
+      "pema",
+      "lulja",
+      "përshkrim",
+      "përgjegjësi"
+    ]
+  }
+]

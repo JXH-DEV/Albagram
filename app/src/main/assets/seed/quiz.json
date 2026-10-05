@@ -1,0 +1,418 @@
+[
+  {
+    "questionId": "q1",
+    "prompt": "Çfarë është një metaforë?",
+    "options": [
+      "Figurë që identifikon dy gjëra të ndryshme",
+      "Një lloj pikezim",
+      "Emër i një dialekti",
+      "Një mjet shkrimi"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "metafora"
+  },
+  {
+    "questionId": "q2",
+    "prompt": "Sa shkronja ka alfabeti shqip?",
+    "options": [
+      "26",
+      "30",
+      "36",
+      "40"
+    ],
+    "correctIndex": 2,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "alfabet"
+  },
+  {
+    "questionId": "q3",
+    "prompt": "Çfarë është një sinoním?",
+    "options": [
+      "Fjalë me kuptim të kundërt",
+      "Fjalë me kuptim të ngjashëm",
+      "Fjalë e huazuar",
+      "Fjalë e vjetëruar"
+    ],
+    "correctIndex": 1,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "sinoním"
+  },
+  {
+    "questionId": "q4",
+    "prompt": "Balada është kryesisht…",
+    "options": [
+      "Poezi narrative emocionale",
+      "Roman historik",
+      "Artikull gazete",
+      "Rregull drejtshkrimi"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "balade"
+  },
+  {
+    "questionId": "q5",
+    "prompt": "Antonym i 'i madh' është…",
+    "options": [
+      "i hijshëm",
+      "i vogël",
+      "i gjatë",
+      "i ri"
+    ],
+    "correctIndex": 1,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "antonim"
+  },
+  {
+    "questionId": "q6",
+    "prompt": "Personifikimi do të thotë…",
+    "options": [
+      "Dhënie tiparesh njerëzore objekteve",
+      "Përsëritje e tingujve",
+      "Lista e burimeve",
+      "Test i njohurive"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "personifikim"
+  },
+  {
+    "questionId": "q7",
+    "prompt": "Në vend të huazimit 'okazion', më mirë thuaj…",
+    "options": [
+      "sofa",
+      "rast",
+      "problem",
+      "ok"
+    ],
+    "correctIndex": 1,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "okazion"
+  },
+  {
+    "questionId": "q8",
+    "prompt": "Kryefjala e fjalisë zakonisht është…",
+    "options": [
+      "Një zanore",
+      "Një emër ose përemër",
+      "Një pikësim",
+      "Një strofë"
+    ],
+    "correctIndex": 1,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "fjali"
+  },
+  {
+    "questionId": "q9",
+    "prompt": "Akrostiku formohet nga…",
+    "options": [
+      "Shkronjat e para të vargjeve",
+      "Vetëm refreni",
+      "Emri i botuesit",
+      "Numri i faqeve"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "akrostik"
+  },
+  {
+    "questionId": "q10",
+    "prompt": "Protagonisti është…",
+    "options": [
+      "Personazhi kryesor",
+      "Botuesi",
+      "Lexuesi",
+      "Titulli i librit"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "protagonist"
+  },
+  {
+    "questionId": "q11",
+    "prompt": "Dialekti është…",
+    "options": [
+      "Variant rajonal i gjuhës",
+      "Lloj romani",
+      "Shenjë pikësimi",
+      "Mjet muzikor"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "dialekt"
+  },
+  {
+    "questionId": "q12",
+    "prompt": "Kulmini i historisë është…",
+    "options": [
+      "Pika më e tensionuar",
+      "Faqja e parë",
+      "Bibliografia",
+      "Kopertina"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "kulmin"
+  },
+  {
+    "questionId": "q13",
+    "prompt": "Rimë do të thotë…",
+    "options": [
+      "Përsëritje tingujsh në fund të vargjeve",
+      "Lloj proze",
+      "Gabim drejtshkrimor",
+      "Emër i një stine"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "rima"
+  },
+  {
+    "questionId": "q14",
+    "prompt": "Bibliografia është…",
+    "options": [
+      "Lista e burimeve",
+      "Personazhi negativ",
+      "Lloj valleje",
+      "Ora e mësimit"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "bibliografi"
+  },
+  {
+    "questionId": "q15",
+    "prompt": "A është 'sofa' fjalë e këshilluar në shqipe të pastër?",
+    "options": [
+      "Jo, më mirë 'divan'",
+      "Po, është fjalë e vjetër shqipe",
+      "Vetëm në poezi",
+      "Vetëm në dialekt"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "sofa"
+  },
+  {
+    "questionId": "q16",
+    "prompt": "Strofa është…",
+    "options": [
+      "Grup vargjesh",
+      "Një roman",
+      "Një gazetë",
+      "Një zanore"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "strofa"
+  },
+  {
+    "questionId": "q17",
+    "prompt": "Ironia shpesh thotë…",
+    "options": [
+      "Të kundërtën e asaj që duket",
+      "Vetëm të vërtetën e thjeshtë",
+      "Emrin e autorit",
+      "Datën e botimit"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "ironí"
+  },
+  {
+    "questionId": "q18",
+    "prompt": "Folja tregon…",
+    "options": [
+      "Veprim ose gjendje",
+      "Vetëm ngjyrën",
+      "Vetëm vendin",
+      "Vetëm kohën e orës"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "folje"
+  },
+  {
+    "questionId": "q19",
+    "prompt": "Epiteti është…",
+    "options": [
+      "Mbiemër artistik",
+      "Lloj teatri",
+      "Gabim gramatikor",
+      "Emër i një lumi"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "epitet"
+  },
+  {
+    "questionId": "q20",
+    "prompt": "Qëllimi i Albagram është…",
+    "options": [
+      "Të forcojë përdorimin e saktë të shqipes",
+      "Të zëvendësojë shqipen me anglisht",
+      "Të heqë të gjitha fjalët e reja",
+      "Të mësojë vetëm matematikë"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "gjuha"
+  },
+  {
+    "questionId": "q21",
+    "prompt": "Çfarë është një paragraf?",
+    "options": [
+      "Njësi teksti rreth një ideje",
+      "Një lloj zanoreje",
+      "Një mjet pikture",
+      "Një emër dialekti"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 18,
+    "relatedWordId": "paragraf"
+  },
+  {
+    "questionId": "q22",
+    "prompt": "Argumenti në ese shërben për…",
+    "options": [
+      "Të mbështesë një mendim",
+      "Të zëvendësojë pikësimin",
+      "Të fshehë idenë",
+      "Të shkurtojë fjalorin"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 18,
+    "relatedWordId": "argument"
+  },
+  {
+    "questionId": "q23",
+    "prompt": "Antonym i komedisë është…",
+    "options": [
+      "Tragjedi",
+      "Refren",
+      "Orar",
+      "Presje"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "tragjedi"
+  },
+  {
+    "questionId": "q24",
+    "prompt": "Biblioteka është vendi ku…",
+    "options": [
+      "Ruhen dhe huazohen libra",
+      "Luhet futboll",
+      "Pikësohet muzika",
+      "Rriten pemët"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "bibliotekë"
+  },
+  {
+    "questionId": "q25",
+    "prompt": "Çfarë është një strofë?",
+    "options": [
+      "Grup vargjesh në poezi",
+      "Lloj i dialektit",
+      "Shenjë pikësimi",
+      "Emër i stinës"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 18,
+    "relatedWordId": "strofë"
+  },
+  {
+    "questionId": "q26",
+    "prompt": "Debati dhe diskutimi janë…",
+    "options": [
+      "Mënyra për të shkëmbyer argumente",
+      "Lloje të mitit",
+      "Pjesë të alfabetit",
+      "Emra të lumenjve"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 18,
+    "relatedWordId": "debat"
+  },
+  {
+    "questionId": "q27",
+    "prompt": "Përqendrimi ndihmon kryesisht…",
+    "options": [
+      "Në mbajtjen e vëmendjes te detyra",
+      "Në rritjen e borës",
+      "Në ndërtimin e skenës",
+      "Në shkurtimin e librit"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "përqendrim"
+  },
+  {
+    "questionId": "q28",
+    "prompt": "Proza ndryshon nga poezia sepse…",
+    "options": [
+      "Zakonisht nuk ka metër të rregullt",
+      "Ka vetëm refren",
+      "Nuk ka personazhe",
+      "Shkruhet vetëm me zanore"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 20,
+    "relatedWordId": "prozë"
+  },
+  {
+    "questionId": "q29",
+    "prompt": "Heroi zakonisht…",
+    "options": [
+      "Admirohet për guxim ose vlera",
+      "Është antonim i sinonimit",
+      "Është shenjë pikësimi",
+      "Është lloj i parafjalës"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "hero"
+  },
+  {
+    "questionId": "q30",
+    "prompt": "Redaktimi i tekstit do të thotë…",
+    "options": [
+      "Korrigjim për saktësi",
+      "Heqje e të gjitha fjalive",
+      "Ndryshim i alfabetit",
+      "Shtim i dialektit"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 18,
+    "relatedWordId": "redaktim"
+  },
+  {
+    "questionId": "q31",
+    "prompt": "Simboli…",
+    "options": [
+      "Përfaqëson një ide me një shenjë",
+      "Është vetëm një zanore",
+      "Është emër i stinës",
+      "Është lloj i notës"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 15,
+    "relatedWordId": "simbol"
+  },
+  {
+    "questionId": "q32",
+    "prompt": "Përfundimi i esesë…",
+    "options": [
+      "Mbyll dhe përmbledh idetë",
+      "Hap temën për herë të parë",
+      "Zëvendëson titullin",
+      "Fshin argumentet"
+    ],
+    "correctIndex": 0,
+    "timeLimitSeconds": 18,
+    "relatedWordId": "përfundim"
+  }
+]
